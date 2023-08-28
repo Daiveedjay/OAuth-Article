@@ -7,12 +7,12 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBWXnCiyH4vgpgLwfL4-V1tWN3ZBPPlhuY",
-  authDomain: "oauth-article.firebaseapp.com",
-  projectId: "oauth-article",
-  storageBucket: "oauth-article.appspot.com",
-  messagingSenderId: "967884445206",
-  appId: "1:967884445206:web:976b887313f997627b8737",
+  apiKey: "Your-api-key",
+  authDomain: "Your domain",
+  projectId: "Your-ID",
+  storageBucket: "Your-bucket",
+  messagingSenderId: "Your-ID",
+  appId: "Your-ID",
 };
 
 // Initialize Firebase

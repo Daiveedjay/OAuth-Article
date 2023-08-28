@@ -28,14 +28,6 @@ function App() {
         )}
       </Routes>
     </BrowserRouter>
-    //TODO----------
-
-    // <BrowserRouter>
-    //   <Routes>
-    //     <Route path="/" element={<Home />} />
-    //     <Route path="/auth" element={<Auth />} />
-    //   </Routes>
-    // </BrowserRouter>
   );
 }
 
